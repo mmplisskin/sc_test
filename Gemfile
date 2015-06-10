@@ -32,7 +32,6 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'httparty', '0.11.0'
 
 
-ljgkjhgkjhghjg
 
 # gem 'capistrano-rails', group: :development
 
